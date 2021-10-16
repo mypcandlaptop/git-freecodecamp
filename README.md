@@ -6,3 +6,5 @@ iam contributing here!
 ## About 
 
 This is repo where I am practicing git
+
+Iam resolving isssue
